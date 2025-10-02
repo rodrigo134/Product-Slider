@@ -43,6 +43,10 @@ You just need a modern web browser.
 
 That's it! You should now see the product slider in action.
 
+## 🎬 See it in Action
+
+![Refri do Dev in Action](https://i.imgur.com/jgNarmk.gif)
+
 ## 📂 Project Structure
 
 The file structure is straightforward:
